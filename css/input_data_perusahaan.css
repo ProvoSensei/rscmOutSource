@@ -1,0 +1,21 @@
+#logout {
+  bottom: 0;
+  position: fixed;
+  width: 201px;
+  max-width: 100%;
+}
+
+#active {
+  background-color: #009688;
+  color: white;
+}
+
+#submit {
+	background-color: #009688;
+	color: white;
+}
+
+#form {
+	margin: 30px 0px 0px 20px;
+	width: 60%;
+}

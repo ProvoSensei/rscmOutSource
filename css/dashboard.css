@@ -1,0 +1,50 @@
+#logout {
+  bottom: 0;
+  position: fixed;
+  width: 201px;
+  max-width: 100%;
+}
+
+#active {
+  background-color: #009688;
+  color: white;
+}
+/*Profile card*/
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 250px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 16px;
+}
+
+#contact {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #009688;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+#mediaSosial {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+  padding: 0px 3px;
+}
+
+#contact:hover, #contact a:hover {
+  opacity: 0.7;
+}
+/*Profile card*/
+

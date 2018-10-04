@@ -1,0 +1,52 @@
+#logout {
+  bottom: 0;
+  position: fixed;
+  width: 201px;
+  max-width: 100%;
+}
+
+#active {
+  background-color: #009688;
+  color: white;
+}
+
+#submit {
+	background-color: #009688;
+	color: white;
+}
+
+#form,.formReset {
+	margin-top: 30px !important;
+	margin: auto;
+	width: 97%;
+}
+
+#form input[type=text]:focus {
+    width: 100%;
+}
+
+#form2 {
+  margin-top: 30px !important;
+  margin: auto;
+  width: 97%;
+}
+
+#form input[type=text] {
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+#pp {
+  width: 113px;
+  height: 151px;
+}
